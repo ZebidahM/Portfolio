@@ -20,7 +20,7 @@ I'm particularly excited about:
 I’d love to collaborate or chat about potential opportunities. You can reach me via:
 - Email - zebidahm@gmail.com
 
-This project is deployed on [GitHub Pages/Netlify] for a live demo.  
-[Check it out here!]
+This project is deployed on GitHub Pages/Netlify for a live demo.  
+Check it out here! https://zebidahm.github.io/Portfolio/ 
 
 Thank you for stopping by! 😊
